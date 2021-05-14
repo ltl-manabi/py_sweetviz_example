@@ -1,0 +1,2 @@
+# py_sweetviz_example
+Sweetvizライブラリを使ってみたサンプルです。
